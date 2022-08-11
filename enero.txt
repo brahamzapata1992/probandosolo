@@ -1,4 +1,12 @@
+
+<<<<<<< HEAD
 este es el primer mes del ano... waooo que descubrimiento
 intentando subir el mismo archivo  
 
+=======
 
+este es el primer mes del ano... waooo que descubrimiento 
+mi nombre no es martinez
+>>>>>>> 742e2a5e7a10df4a6d6ff2185fd90d1ae4c6f3de
+
+intentando modificar sobre archivo editado por los dos 
